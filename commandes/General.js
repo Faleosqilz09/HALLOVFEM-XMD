@@ -71,8 +71,8 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "🚘" }, async (dest, zk
         zk.sendMessage(dest, { video: { url: lien }, caption:message }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁✌ Menu erreur " + e);
+        repondre("😁✌ Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -81,8 +81,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:message }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁✌ Menu erreur " + e);
+        repondre("😁✌ Menu erreur " + e);
     }
 } 
 else {

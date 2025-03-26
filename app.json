@@ -1,5 +1,5 @@
 {
-  "name": "𝐇𝐀𝐋𝐋𝐎𝐕-𝐗𝐌𝐃",
+  "name": "𝐇𝐀𝐋𝐋𝐎𝐕𝐅𝐄𝐌-𝐗𝐌𝐃",
   "description": "Best whatsapp bot developed by femshulez",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/dkrnz0.png",
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "Put a name for your bot",
-      "value": "-𝐇𝐀𝐋𝐋𝐎𝐕-𝐗𝐌𝐃",
+      "value": "-𝐇𝐀𝐋𝐋𝐎𝐕𝐅𝐄𝐌-𝐗𝐌𝐃",
       "required": false
     },
     "BOT_MENU_LINKS": {

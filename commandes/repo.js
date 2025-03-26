@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
       *𝐇𝐀𝐋𝐋𝐎𝐕𝐅𝐄𝐌-𝐗𝐌𝐃 IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/anywaytech2/ANYWAY-MD-V1
+> https://github.com/Faleosqilz09/HALLOVFEM-XMD.git
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09

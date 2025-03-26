@@ -35,7 +35,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-     *ANYWAY MD IMPORTANT INFO* 
+     *HALLOVFEM XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
 > https://github.com/anywaytech2/ANYWAY-MD-V1
@@ -51,7 +51,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-     *Anyway Tech*
+     *Fem Tech*
 
 ❒────────────────────❒`;
 
@@ -62,8 +62,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁✌ Menu erreur " + e);
+        repondre("😁✌ Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png
@@ -72,8 +72,8 @@ else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
         zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁✌ Menu erreur " + e);
+        repondre("😁✌ Menu erreur " + e);
     }
 } 
 else {
@@ -149,8 +149,8 @@ let menuMsg = `
         zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Beltahmd*, déveloper Beltah Tech" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
-        console.log("🥵🥵 Menu erreur " + e);
-        repondre("🥵🥵 Menu erreur " + e);
+        console.log("😁✌ Menu erreur " + e);
+        repondre("😁✌ Menu erreur " + e);
     }
 } 
 // Vérification pour .jpeg ou .png

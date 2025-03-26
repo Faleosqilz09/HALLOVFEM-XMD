@@ -38,7 +38,7 @@ const date = moment().format('DD/MM/YYYY');
      *HALLOVFEM XMD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/anywaytech2/ANYWAY-MD-V1
+> https://github.com/Faleosqilz09/HALLOVFEM-XMD.git
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
@@ -46,7 +46,7 @@ const date = moment().format('DD/MM/YYYY');
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV1* : *Mr anyway*
-│❒⁠⁠⁠⁠ *DEV2* : *ANYWAYTECH*
+│❒⁠⁠⁠⁠ *DEV2* : *FEMTECH*
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     
